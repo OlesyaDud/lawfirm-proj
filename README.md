@@ -34,3 +34,7 @@ This is a modern and responsive landing page designed for an immigration law fir
 ├── ConsultationForm.jsx
 ├── Footer.jsx
 ├── ChatBot.jsx
+
+
+<img width="1921" height="8139" alt="law" src="https://github.com/user-attachments/assets/3d7c1424-15e0-460e-8e5f-8a7983006e57" />
+![App Preview](https://github.com/user-attachments/assets/3d7c1424-15e0-460e-8e5f-8a7983006e57)
