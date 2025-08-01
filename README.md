@@ -25,4 +25,12 @@ This is a modern and responsive landing page designed for an immigration law fir
 - **Vite** (optional, if you’re using it)
 
 ## 📂 Project Structure
-
+/src
+/components
+├── Hero.jsx
+├── AboutSection.jsx
+├── Practices.jsx
+├── Testimonials.jsx
+├── ConsultationForm.jsx
+├── Footer.jsx
+├── ChatBot.jsx
